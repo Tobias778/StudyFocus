@@ -40,6 +40,14 @@ app/src/main/java/au/edu/jcu/assessment/utilityapp/
 4. Run the `app` configuration.
 5. Open Settings to select a duration, then Focus to start the timer.
 
+## App Screenshots
+
+### Focus Screen
+![Focus Screen](screenshots/focus.png)
+
+### Settings Screen
+![Settings Screen](screenshots/settings.png)
+
 ## Testing
 
 - Start, pause and reset the timer.
