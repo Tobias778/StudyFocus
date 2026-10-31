@@ -10,6 +10,17 @@ Its primary purpose is to provide an easy-to-read study session timer.
 - Study quote: fetch a random quote from DummyJSON using Retrofit.
 - Handles unavailable network by displaying a friendly error without crashing.
 
+## Screenshots
+
+### Focus Screen
+![Focus Screen](screenshots/focus.png)
+
+### Settings Screen
+![Settings Screen](screenshots/settings.png)
+
+## Testing
+The application was tested using the Android Studio emulator.
+
 ## Technologies
 
 - Kotlin, Jetpack Compose and Material Design 3
