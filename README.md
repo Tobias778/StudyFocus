@@ -56,8 +56,8 @@ app/src/main/java/au/edu/jcu/assessment/utilityapp/
 
 ## Author and academic integrity
 
-Name: Song Khanh Hong 
-Course: CP3406-SIN-CAM-TR3 Mobile Computing
+- Name: Song Khanh Hong 
+- Course: CP3406-SIN-CAM-TR3 Mobile Computing
 
 ## Source
 
